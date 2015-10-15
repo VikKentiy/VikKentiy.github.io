@@ -2,29 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93899652-9a7d-49e6-94f3-00c739efd470" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/accordion/accordion.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/class_tabs/.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/class_tabs/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/class_tabs/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/class_tabs/.idea/tabs.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/class_tabs/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/class_tabs/.idea/workspace.xml" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dialog box/dialogBox.html" afterPath="$PROJECT_DIR$/dialog_box/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/game find a couple/css/style.css" afterPath="$PROJECT_DIR$/game_find_a_couple/css/style.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/game find a couple/index.html" afterPath="$PROJECT_DIR$/game_find_a_couple/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/game find a couple/js/jquery-1.11.3.min.js" afterPath="$PROJECT_DIR$/game_find_a_couple/js/jquery-1.11.3.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/game find a couple/js/main.js" afterPath="$PROJECT_DIR$/game_find_a_couple/js/main.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/reaction test/css/bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/reaction_test/css/bootstrap-theme.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/reaction test/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/reaction_test/css/bootstrap.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/reaction test/css/dijit.css" afterPath="$PROJECT_DIR$/reaction_test/css/dijit.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/reaction test/css/style.css" afterPath="$PROJECT_DIR$/reaction_test/css/style.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/reaction test/css/tableStyle.css" afterPath="$PROJECT_DIR$/reaction_test/css/tableStyle.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/reaction test/index.html" afterPath="$PROJECT_DIR$/reaction_test/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/reaction test/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/reaction_test/js/bootstrap.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/reaction test/js/jquery-1.11.3.min.js" afterPath="$PROJECT_DIR$/reaction_test/js/jquery-1.11.3.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/reaction test/js/main.js" afterPath="$PROJECT_DIR$/reaction_test/js/main.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/todo list/todoList.html" afterPath="$PROJECT_DIR$/todo_list/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/tree/tree.html" afterPath="$PROJECT_DIR$/tree/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="learning.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -48,8 +26,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2647059">
-              <caret line="13" column="39" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+            <state vertical-scroll-proportion="0.32579187">
+              <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
               <folding />
             </state>
           </provider>
@@ -394,8 +372,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2647059">
-          <caret line="13" column="39" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+        <state vertical-scroll-proportion="0.32579187">
+          <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
           <folding />
         </state>
       </provider>
