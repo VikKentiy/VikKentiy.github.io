@@ -37,7 +37,6 @@ function Reaction( domElement, options) {
 
 Reaction.prototype.nextWord = function(event){
 	this.countTry--;
-		console.log(this);
 	if (event.target.id == this.currentWord.text()) {
 		this.trueAns++;
 
