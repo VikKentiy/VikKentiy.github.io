@@ -9,6 +9,17 @@
 <body>
 </div>
 <div id="list"></div>
+<script type="text/javascript" src="js/storage.js"></script>
 <script type="text/javascript" src="js/list.js"></script>
+<script>
+    var store = new Storage();
+    var list = new StorageAwareList('#list', {
+        storage: store
+    });
+
+    store.add({id: 1, name: 'item1'});
+    store.add({id: 2, name: 'item2'});
+    store.add({id: 3, name: 'item3'});
+</script>
 </body>
 </html>
